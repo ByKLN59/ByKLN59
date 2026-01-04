@@ -6,7 +6,7 @@
 
 🍜 Socials :
 ---
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deepcord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://bykfgh) ![](https://komarev.com/ghpvc/?username=kirobotdev&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deepcord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram/xql.dev) [![](https://visitcount.itsvg.in/api?id=senju-sh&icon=0&color=0)](https://bykfgh) ![](https://komarev.com/ghpvc/?username=bykln59&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 💻 Tech Stack :
 ---
